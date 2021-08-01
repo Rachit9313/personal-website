@@ -1,0 +1,105 @@
+/*--------------------Tag Selectors --------------*/
+
+body{
+  background-color: #EDF6E5;
+margin: 0;
+text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1{
+  color: #512D6D;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+
+}
+p{
+  color:#F8485E;
+  margin: 0;
+
+}
+
+
+
+
+
+/*------------------Class Selectors------------------*/
+.top{
+  background-color:#FFBCBC;
+  padding-top: 100px;
+  position: relative;
+
+
+}
+.middle-container {
+
+}
+.bottom-container{
+
+}
+.pappu{
+  text-decoration: underline;
+}
+.img{
+
+  position: absolute;
+  left :500px;
+  bottom: 300px;
+}
+.c1{
+  position: absolute;
+  top: 50px;
+  right:500px;
+}
+.profilepic {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+.skill_2{
+  height: 100px;
+  width:100px;
+}
+
+.skills{
+    background-color:#FFBCBC;
+    margin: 0;
+
+}
+.h2{
+  margin: 0;
+  color: #512D6D;
+  font-family: 'Cinzel', serif;
+
+
+}
+.hr_1
+  color: #512D6D;
+  font-family: 'Cinzel', serif;
+{
+.hr{
+  margin: 0;
+}
+.skills{
+padding-top: 100px;
+}
+.title{
+  font-size: 1000px ;
+}
+.copy{
+  background-color:#FFBCBC;
+  height: 100px;
+  width: 50px;
+}
+.bottom-container{
+  background-color:#FFBCBC;
+  padding: 100px;
+  height: 100px;
+  width: 50px;
+}
+
+.profilepic{
+
+
+}
